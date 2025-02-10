@@ -1,0 +1,6 @@
+Package: barrier
+Version: 2.4.0
+Architecture: amd64
+Maintainer: Christopher Pendlebury <chris@christopherpendlebury.com>
+Description: Open-source KVM software for sharing a keyboard and mouse across computers. This build is for Debian trixie. (testing)
+

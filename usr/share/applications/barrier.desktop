@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Barrier
+Comment=Share your keyboard and mouse
+Exec=/usr/local/bin/barrier  # Adjust if installed elsewhere
+Icon=barrier
+Terminal=false
+Type=Application
+Categories=Utility;
