@@ -1,6 +1,7 @@
 # Barrier Debian Package Fix
 
 This repository contains a fixed version of Barrier 2.4.0 for Debian Trixie.
+You can find the original Barrier at: https://github.com/debauchee/barrier
 
 ## What’s Fixed?
 - **Build error:** `std::uint8_t` not recognized 
