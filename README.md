@@ -7,10 +7,17 @@ You can find the original Barrier at: https://github.com/debauchee/barrier
 - **Build error:** `std::uint8_t` not recognized 
 
 ## Installation
-Download and install the `.deb` package:
+Download and install the `.deb` package (AMD64):
 ```sh
 wget https://github.com/cpendlebury/barrier-trixie/releases/latest/download/barrier-2.4.0-trixie.deb
 sudo dpkg -i barrier-2.4.0-trixie.deb
+```
+
+Download and install the `.deb` package for ARMHF (e.g. armbian / Raspberry Pi / other armhf boards):
+```sh
+wget https://github.com/cpendlebury/barrier-trixie/releases/latest/download/barrier-2.4.0-trixie-armhf.deb
+sudo dpkg -i barrier-2.4.0-trixie-armhf.deb
+```
 
 ## Build from source
 ```sh
